@@ -1,12 +1,12 @@
 {
-  "name": "save2drive",
-  "description": "Save your files to drive",
+  "name": "Goole Drive Uploader",
+  "description": "Save your files to google drive",
   "main": "app.js",
   "authors": [
-    "samundrak <samundrak@yahoo.com>"
+    ""
   ],
   "license": "MIT",
-  "homepage": "https://github.com/samundrak/save-to-drive",
+  "homepage": "",
   "moduleType": [],
   "ignore": [
     "**/.*",
