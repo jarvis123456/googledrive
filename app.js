@@ -50,7 +50,7 @@ app.use('/api', (req, res, next)=> {
     return next();
 });
 x = 101;
-var server = app.listen(3000);
+var server = app.listen(80);
 var io = require('socket.io')(server);
 require('./handlers/Socket')(app,io);
 app.use('/', routes);
