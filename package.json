@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "forever start --minUptime 1000 --spinSleepTime 1000 app.js",
+    "start": "forever start --minUptime 10000 --spinSleepTime 10000 app.js",
     "stop":  "forever stop app.js"
   },
   "dependencies": {
